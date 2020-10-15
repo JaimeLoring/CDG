@@ -7,7 +7,7 @@
  
  Espero:
  + Recordar bases de datos
- + Aprender Git y GitHub: commit, push, merge. Merge me une las ramas en local.
+ + Aprender Git y GitHub: commit, push, merge. Merge me une las ramas en local. Puedo hacer merge en remoto?
  + Aprender GUIs
  + Hacer algo útil
 '''
