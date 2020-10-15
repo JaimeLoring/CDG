@@ -7,7 +7,7 @@
  
  Espero:
  + Recordar bases de datos
- + Aprender Git y GitHub: commit, push, merge.
+ + Aprender Git y GitHub: commit, push, merge. Que sera merge en local.
  + Aprender GUIs
  + Hacer algo útil
 '''
