@@ -1,4 +1,4 @@
-### 15/10/2020 Thursday
+### 15_10_2020 Thursday : Por favor dejar de tocar los cojones
 
 ''' Sistema de control de gastos:
 + CAPACIDADES:
