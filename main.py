@@ -1,4 +1,4 @@
-### 15/10/2020
+### 15_10_2020 Thursday
 
 ''' Sistema de control de gastos:
 + CAPACIDADES:
